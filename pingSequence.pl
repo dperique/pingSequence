@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# Author: F. Dennis Periquet
+# Author: Dennis Periquet
 # May 3, 2015
 #
 # Used to show if we missed a packet in ping.  It will look at the sequence
