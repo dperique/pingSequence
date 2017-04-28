@@ -28,3 +28,8 @@ Missed packets = 0
 
 Note the histogram indicates a blip at first them smooths out.
 
+Also note the two numbers after each group of asterisks.  The first one is the latency and the second
+one is the max latency seen.  The max latency will get updated if the utility sees a latency that
+is bigger that the current one.
+
+
