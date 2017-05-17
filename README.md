@@ -26,5 +26,5 @@ Missed packets = 0
 *********************************************************** 20.851/34.953
 ```
 
-Note the histogram indicates a blip at first them smooths out.
+Note the histogram indicates a blip at first them smooths out. 
 
